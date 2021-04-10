@@ -4,9 +4,6 @@ Olá, me chamo **David Azevedo**, sou de Salvador, Brasil. Estou estudando para 
 
 ##### interests and curiosities
 
-<a target="_blank" href="https://blog.zoho.com/wp-content/uploads/2019/08/new-Converted.gif"> 
-<img allign="right" height="300px" width="450px" alt="Programming gif" src ="https://blog.zoho.com/wp-content/uploads/2019/08/new-Converted.gif" style="max-width: 100%;"></a>
-
 - 📚 No momento estou estudando a tríplice do desenvolvimento web (**HTML**, **CSS**, **JAVASCRIPT**) 
 - 🇺🇸 Estudando inglês
 - 💭 Extremamente curioso, adoro ter conhecimento teórico sobre as coisas. Planejo me profissionalizar a um nível de conhecimento que no final eu possa olhar e dizer: 🃏 "Eu trabalhei em uma diversidade imensurável de projetos, com funções inimaginaveis". Mas, claro que ainda quero ter um nível especialista em pontos especificos. 
