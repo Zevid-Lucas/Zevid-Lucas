@@ -4,6 +4,8 @@ Olá, me chamo **David Azevedo**, sou de Salvador, Brasil. Estou estudando para 
 
 ### interests and curiosities
 
+<img align="right" width="400px" height="500px" src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif" >
+
 - 📚 No momento estou estudando a tríplice do desenvolvimento web (**HTML**, **CSS**, **JAVASCRIPT**) 
 
 - 🇺🇸 Estudando inglês
