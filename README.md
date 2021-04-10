@@ -36,8 +36,8 @@ Olá, me chamo **David Azevedo**, sou de Salvador, Brasil. Estou estudando para 
  
   ---
 
-![Zevid-Lucas Status](https://github-readme-stats.vercel.app/api?Username=Zevid-Lucas&show_icons=true&theme=tokyonight)
 
-![Zevid-Lucas Status](https://github-readme-stats.vercel.app/api?username=Zevid-Lucas&show_icons=true)
+
+![Zevid-Lucas Status](https://github-readme-stats.vercel.app/api?username=Zevid-Lucas&show_icons=true&theme=tokyonight)
 
 
