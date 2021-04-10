@@ -22,12 +22,9 @@ Olá, me chamo **David Azevedo**, sou de Salvador, Brasil. Estou estudando para 
 
 ### contact me: 
 
- <a  target="_blank" href="https://www.linkedin.com/in/dl-azevedo/">
-    <img height="50px" width="50px" src="https://img.icons8.com/nolan/64/linkedin.png"/ style="max-width=100%">
- </a>
- <a  target="_blank" href="mailto:zevid.dev@outlook.com" >
-    <img height="50px" width="50px" src="https://img.icons8.com/nolan/64/email.png"/ style="max-width=100%" style="margin-rigth=300px">
- </a>
+[![Uma pedra antiga no deserto](https://www.linkedin.com/in/dl-azevedo/)](https://img.icons8.com/nolan/64/linkedin.png)
+
+
  
  
  ### Languagens and tools: 
