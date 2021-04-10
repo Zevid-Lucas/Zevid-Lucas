@@ -31,7 +31,7 @@ Olá, me chamo **David Azevedo**, sou de Salvador, Brasil. Estou estudando para 
  
  ### Languagens and tools: 
  
- <img src="https://img.icons8.com/nolan/32/github.png"/> <img src="https://img.icons8.com/nolan/30/html-5.png"/><img src="https://img.icons8.com/dusk/30/000000/css3.png"/> <img src="https://img.icons8.com/nolan/30/linux--v2.png"/> <img src="https://img.icons8.com/nolan/30/console.png"/>
+ <img src="https://img.icons8.com/nolan/50/github.png"/> <img src="https://img.icons8.com/nolan/50/html-5.png"/><img src="https://img.icons8.com/dusk/50/000000/css3.png"/> <img src="https://img.icons8.com/nolan/50/linux--v2.png"/> <img src="https://img.icons8.com/nolan/50/console.png"/>
 
 
 
