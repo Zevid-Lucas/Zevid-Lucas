@@ -22,7 +22,7 @@ Olá, me chamo **David Azevedo**, sou de Salvador, Brasil. Estou estudando para 
 
 ### contact me: 
 
-[![(https://www.linkedin.com/in/dl-azevedo/)](https://img.icons8.com/nolan/64/linkedin.png)
+[!(https://www.linkedin.com/in/dl-azevedo/)](https://img.icons8.com/nolan/64/linkedin.png)
 
  <a  target="_blank" href="https://www.linkedin.com/in/dl-azevedo/">
     <img height="50px" width="50px" src="https://img.icons8.com/nolan/64/linkedin.png"/ style="max-width=100%">
