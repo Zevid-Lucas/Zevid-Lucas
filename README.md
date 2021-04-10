@@ -2,7 +2,7 @@
 
 Olá, me chamo **David Azevedo**, sou de Salvador, Brasil. Estou estudando para me tornar um **Desenvolvedor Full-Stack Jr** 👨🏻‍💻 no momento conto com a [trybe](https://www.betrybe.com/) para acelerar esse processo de desenvolvimento.
 
-##### interests and curiosities
+### interests and curiosities
 
 - 📚 No momento estou estudando a tríplice do desenvolvimento web (**HTML**, **CSS**, **JAVASCRIPT**) 
 
