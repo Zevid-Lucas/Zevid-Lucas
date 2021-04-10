@@ -25,13 +25,13 @@ Olá, me chamo **David Azevedo**, sou de Salvador, Brasil. Estou estudando para 
  <a  target="_blank" href="https://www.linkedin.com/in/dl-azevedo/">
     <img height="50px" width="50px" src="https://img.icons8.com/nolan/64/linkedin.png"/ style="max-width=100%">
  </a>
- <a  target="_blank" href="mailto:zevid.dev@outlook.com">
-    <img height="50px" width="50px" src="https://img.icons8.com/nolan/64/email.png"/ tyle="max-width=100%">
+ <a  target="_blank" href="mailto:zevid.dev@outlook.com" >
+    <img height="50px" width="50px" src="https://img.icons8.com/nolan/64/email.png"/ style="max-width=100%" style="margin-rigth=300px">
  </a>
  
  ### Languagens and tools: 
  
- <img src="https://img.icons8.com/nolan/50/github.png"/> <img src="https://img.icons8.com/color/50/000000/git.png"/> <img src="https://img.icons8.com/nolan/50/html-5.png"/><img src="https://img.icons8.com/dusk/50/000000/css3.png"/> <img src="https://img.icons8.com/nolan/50/linux--v2.png"/> <img src="https://img.icons8.com/nolan/50/console.png"/>
+ <img src="https://img.icons8.com/nolan/50/github.png"/> <img src="https://img.icons8.com/color/50/000000/git.png"/>  <img src="https://img.icons8.com/nolan/50/html-5.png"/><img src="https://img.icons8.com/dusk/50/000000/css3.png"/> <img src="https://img.icons8.com/nolan/50/linux--v2.png"/> <img height="45px" width="45px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png"/> <img src="https://img.icons8.com/nolan/50/console.png"/>
 
 
 
