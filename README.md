@@ -36,8 +36,7 @@ Olá, me chamo **David Azevedo**, sou de Salvador, Brasil. Estou estudando para 
  
   ---
 
-[! [Estatísticas do GitHub do Anurag] (https://github-readme-stats.vercel.app/api?Username=Zevid-Lucas)] (https://github.com/anuraghazra/github-readme-stats)
-
+!(https://github-readme-stats.vercel.app/api ? Username = Zevid-Lucas & show_icons = true & theme = tokyonight )
 
 
 
