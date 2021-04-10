@@ -29,11 +29,14 @@ Olá, me chamo **David Azevedo**, sou de Salvador, Brasil. Estou estudando para 
     <img height="50px" width="50px" src="https://img.icons8.com/nolan/64/email.png"/ style="max-width=100%" style="margin-rigth=300px">
  </a>
  
+ 
  ### Languagens and tools: 
  
  <img src="https://img.icons8.com/nolan/50/github.png"/> <img src="https://img.icons8.com/color/50/000000/git.png"/>  <img src="https://img.icons8.com/nolan/50/html-5.png"/><img src="https://img.icons8.com/dusk/50/000000/css3.png"/> <img src="https://img.icons8.com/nolan/50/linux--v2.png"/> <img height="45px" width="45px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png"/> <img src="https://img.icons8.com/nolan/50/console.png"/>
+ 
+  ---
 
-
+[! [Estatísticas do GitHub do Anurag] (https://github-readme-stats.vercel.app/api?Username=Zevid-Lucas)] (https://github.com/anuraghazra/github-readme-stats)
 
 
 
