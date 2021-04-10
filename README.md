@@ -20,3 +20,18 @@ Olá, me chamo **David Azevedo**, sou de Salvador, Brasil. Estou estudando para 
 
 - 💡 Tenho como um dos projetos iniciais em minha jornada criar conteúdo de qualidade que facilite a ingressão de novas pessoas na área, focando em um aprendizado leve e totalmente discontraído para que ela se apaixone pela área de tecnologia e leve isso primeiramente como um lazer e não uma fonte de renda. Diminuíndo as pressões sobre os estudos. (Quem quiser juntar e ajudar nisso, só chamar!!)
 
+### contact me: 
+
+ <a  target="_blank" href="https://www.linkedin.com/in/dl-azevedo/">
+    <img height="30px" width="30px" src="https://img.icons8.com/nolan/64/linkedin.png"/ style="max-width=100%">
+ </a>
+ <a  target="_blank" href="mailto:zevid.dev@outlook.com">
+    <img height="30px" width="30px" src="https://img.icons8.com/nolan/64/email.png"/ tyle="max-width=100%">
+ </a>
+ 
+ ### Languagens and tools: 
+ 
+ <img src="https://img.icons8.com/nolan/32/github.png"/> 
+![figma_logo_icon](https://user-images.githubusercontent.com/65208891/114278915-4ac87880-9a08-11eb-91bc-429a1c6ddd8e.png)
+
+
