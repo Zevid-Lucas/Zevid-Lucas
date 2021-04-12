@@ -30,7 +30,7 @@ Olá, me chamo **David Azevedo**, sou de Salvador, Brasil. Estou estudando para 
     <img height="50px" width="50px" src="https://img.icons8.com/nolan/64/linkedin.png"/ style="max-width=100%">
  </a>
  <a  target="_blank" href="mailto:zevid.dev@outlook.com" >
-    <img height="50px" width="50px" src="https://img.icons8.com/nolan/64/email.png"/ style="max-width=100%" style="margin-rigth=300px">
+    <img height="60px" width="50px" src="https://img.icons8.com/nolan/64/email.png"/ style="max-width=100%" style="margin-rigth=300px">
  </a>
  
  
@@ -45,3 +45,4 @@ Olá, me chamo **David Azevedo**, sou de Salvador, Brasil. Estou estudando para 
 ![Zevid-Lucas Status](https://github-readme-stats.vercel.app/api?username=Zevid-Lucas&show_icons=true&theme=tokyonight)
 
 
+star Baseado em [Johnatas-Henrique](https://github.com/johnatas-henrique)
