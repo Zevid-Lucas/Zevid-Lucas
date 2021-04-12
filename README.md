@@ -45,4 +45,4 @@ Olá, me chamo **David Azevedo**, sou de Salvador, Brasil. Estou estudando para 
 ![Zevid-Lucas Status](https://github-readme-stats.vercel.app/api?username=Zevid-Lucas&show_icons=true&theme=tokyonight)
 
 
-star Baseado em [Johnatas-Henrique](https://github.com/johnatas-henrique)
+⭐ Baseado em [Johnatas-Henrique](https://github.com/johnatas-henrique)
