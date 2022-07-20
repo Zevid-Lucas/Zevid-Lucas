@@ -18,10 +18,6 @@ Olá, me chamo **David Azevedo**, sou de Salvador, Brasil. Estou estudando para 
 
 - ❗️ Ah, eu tenho muita vontade de jogar 🥌 curling. Admiro demais esse jogo desde a primeira vez que assisti as olimpiadas de inverno . Se puderem ajudar, ficarei eternamente grato!!
 
-- 🔎 Adoro criar mensagens subliminares em meus projetos, principalmente utilizando anagramas, siglas e afins.
-
-- 💡 Tenho como um dos projetos iniciais em minha jornada criar conteúdo de qualidade que facilite a ingressão de novas pessoas na área, focando em um aprendizado leve e totalmente discontraído para que ela se apaixone pela área de tecnologia e leve isso primeiramente como um lazer e não uma fonte de renda. Diminuíndo as pressões sobre os estudos. (Quem quiser juntar e ajudar nisso, só chamar!!)
-
 ### contact me: 
 
 
