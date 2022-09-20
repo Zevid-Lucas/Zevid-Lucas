@@ -32,7 +32,13 @@ Olá, me chamo **David Azevedo**, sou de Salvador, Brasil. Estou estudando para 
  
  ### Languagens and tools: 
  
- <img src="https://img.icons8.com/nolan/50/github.png"/> <img src="https://img.icons8.com/color/50/000000/git.png"/>  <img src="https://img.icons8.com/nolan/50/html-5.png"/><img src="https://img.icons8.com/dusk/50/000000/css3.png"/> <img src="https://img.icons8.com/nolan/50/linux--v2.png"/> <img height="45px" width="45px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png"/> <img src="https://img.icons8.com/nolan/50/console.png"/>
+ <img src="https://img.icons8.com/nolan/50/github.png"/> <img src="https://img.icons8.com/color/50/000000/git.png"/>  <img src="https://img.icons8.com/nolan/50/html-5.png"/><img src="https://img.icons8.com/dusk/50/000000/css3.png"/> <img src="https://img.icons8.com/nolan/50/linux--v2.png"/> <img height="45px" width="45px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png"/> <img src="https://img.icons8.com/nolan/50/console.png"/> <img src="https://img.icons8.com/nolan/50/javascript.png"/> <img src="https://img.icons8.com/nolan/50/mysql.png"/> <img src="https://img.icons8.com/windows/50/7950F2/node-js.png"/> <img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/40/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-duo-tal-revivo.png"/> <img src="https://img.icons8.com/ios/45/7950F2/typescript.png"/>
+
+
+
+
+
+
  
   ---
 
